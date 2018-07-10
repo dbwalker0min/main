@@ -6,6 +6,6 @@
 [subrepo]
 	remote = git@github.com:dbwalker0min/plugin.git
 	branch = master
-	commit = fe6479991d214f4d95ac2ae959d7252a866e01a3
-	parent = b90985a33ec4a0a151dd54a42e3419a3282fbf55
+	commit = f957a49dda4b2f0db92498c9ee8c2379078dc66a
+	parent = 8ff76c85a122a1362f30b829054a94f8330da022
 	cmdver = 0.3.1

@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:dbwalker0min/plugin.git
+	branch = master
+	commit = fe6479991d214f4d95ac2ae959d7252a866e01a3
+	parent = b90985a33ec4a0a151dd54a42e3419a3282fbf55
+	cmdver = 0.3.1
